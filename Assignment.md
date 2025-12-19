@@ -1,4 +1,4 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21109803)
+
 # CSCI160-CH3PE62
 Programming Exercise 62 From Java Illuminated Book by Anderson and Franceschi  
 Write a program that takes three __double__ numbers from the Java console representing, respectively, the three coefficients __a__, __b__, and __c__ of a quadratic equation.  
